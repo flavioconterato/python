@@ -2,7 +2,7 @@
 
 def recursivo(valor):
     if valor == 0 :
-        pass
+		pass
     else:
         print(valor)
         recursivo(valor-1)
