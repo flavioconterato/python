@@ -14,15 +14,15 @@ Example:
     python deepersystem.py -t train.csv -r traintruth.csv
 ####  "-t = train file"
 ####  "-r = train truth file"
-####  Outputs:
+###  Outputs:
 ####    Model(.json) and Weights(.h5) of slope and intercept:
-####      model_slope.json , model_slope.h5, model_intercept.json , model_intercept.h5
+#####      model_slope.json , model_slope.h5, model_intercept.json , model_intercept.h5
       
 ## Test:
 ##  python deepersystem.py -n file
     python deepersystem.py -n test.csv
 ####  "-n = train file"
-####  Outputs:
+###  Outputs:
 ####    Predict text files of slope and intercept
-####    slope_predict_test.txt
-####    intercept_predict_test.txt
+#####    slope_predict_test.txt
+#####    intercept_predict_test.txt
