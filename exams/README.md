@@ -23,6 +23,6 @@ Example:
     python deepersystem.py -n test.csv
 ####  "-n = train file"
 ###  Outputs:
-####    Predict text files of slope and intercept
+####    Predict text files of slope and intercept:
 #####    slope_predict_test.txt
 #####    intercept_predict_test.txt
